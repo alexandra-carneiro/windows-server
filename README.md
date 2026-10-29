@@ -132,3 +132,15 @@ O relatório final do trabalho descreve a infraestrutura no contexto de uma empr
 
 - Ambiente de laboratório. Os nomes dos utilizadores e dos departamentos são de teste.
 - O domínio documentado nos ficheiros é iefp.internal; o relatório final usa o domínio pixelforge.internal no contexto da empresa fictícia.
+
+
+---
+
+## 👩‍💻 Autoria
+
+**Alexandra Carneiro**  
+*Graduanda em Engenharia de Software | Técnica Especialista em Cibersegurança & Redes*
+
+- **GitHub:** [@alexandra-carneiro](https://github.com/alexandra-carneiro)  
+- **LinkedIn:** [carneiro-alexandra](https://www.linkedin.com/in/carneiro-alexandra/)  
+- **Portfólio:** [alexandracarneiro.tech](https://alexandracarneiro.tech/)
